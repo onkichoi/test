@@ -1,2 +1,5 @@
-remote_theme:hydra-jekyll-template
+title: Northern Light Toastmasters Club
+plugins:
+  - jekyll-remote-theme
+remote_theme: wowthemesnet/affiliates-jekyll-theme
 
