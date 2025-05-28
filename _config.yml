@@ -1,3 +1,2 @@
-plugins:
-  - affiliates-jekyll-theme
+remote_theme:hydra-jekyll-template
 
